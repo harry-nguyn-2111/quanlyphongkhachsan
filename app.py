@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime, date
 import sqlite3
 import os
-
+st.image("VT.png", width=200)
 # ============================================================
 # CẤU HÌNH
 # ============================================================
